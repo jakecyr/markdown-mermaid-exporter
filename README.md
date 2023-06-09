@@ -2,6 +2,9 @@
 
 Convert mermaid diagrams in a markdown file to images (svg, png, or pdf). An image file will be created for each diagram found in the source markdown.
 
+![Version](https://shields.io/npm/v/markdown-mermaid-exporter)
+![Bundle Size](https://img.shields.io/bundlephobia/min/markdown-mermaid-exporter)
+
 ## Installation
 
 Install the package with `npm install markdown-mermaid-exporter`.

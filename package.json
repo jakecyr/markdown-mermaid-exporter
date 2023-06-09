@@ -4,6 +4,10 @@
   "description": "Convert markdown mermaid to an image",
   "main": "dist/main.js",
   "author": "Jake Cyr",
+  "repository": {
+    "url": "https://github.com/jakecyr/markdown-mermaid-exporter",
+    "type": "public"
+  },
   "license": "ISC",
   "scripts": {
     "start": "node dist/main.js",

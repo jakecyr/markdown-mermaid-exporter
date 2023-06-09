@@ -13,7 +13,7 @@ Check out the [./examples](./examples/) folder for examples on how to use the pa
 ### Form Markdown String
 
 ```javascript
-const { convertMarkdownMermaidToImage } = require('../dist/main');
+const { convertMarkdownMermaidToImage } = require('markdown-mermaid-exporter');
 
 const markdown = `
 \`\`\`mermaid
@@ -31,7 +31,7 @@ await convertMarkdownMermaidToImage(markdown, 'diagram.png'); // will create dia
 ### From Markdown File
 
 ```javascript
-const { convertMarkdownMermaidToImage } = require('../dist/main');
+const { convertMarkdownMermaidToImage } = require('markdown-mermaid-exporter');
 const fs = require('fs');
 const path = require('path');
 

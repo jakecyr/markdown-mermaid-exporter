@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1686338337313" clover="3.2.0">
+  <project timestamp="1686338337313" name="All files">
+    <metrics statements="22" coveredstatements="20" conditionals="11" coveredconditionals="9" methods="3" coveredmethods="3" elements="36" coveredelements="32" complexity="0" loc="22" ncloc="22" packages="1" files="1" classes="1"/>
+    <file name="convertMarkdownMermaidToImage.ts" path="/Users/jakecyr/code/markdown-mermaid-exporter/src/convertMarkdownMermaidToImage.ts">
+      <metrics statements="22" coveredstatements="20" conditionals="11" coveredconditionals="9" methods="3" coveredmethods="3"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="17" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="21" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="25" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
